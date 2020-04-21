@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open Source Food Project"
+title                    : "Open"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
