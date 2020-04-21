@@ -21,5 +21,6 @@ A six char single underline is a level 2 heading
 
 
 Example: adding an image
+
 ![Editing a markdown file for a talk](/images/Test_image.jpg)
 
