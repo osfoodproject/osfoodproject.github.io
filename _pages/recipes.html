@@ -16,5 +16,6 @@ redirect_from:
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
 {{ forloop.index0 }}
+{{ site.recipes[0] }}
   {% include archive-single.html %}
 {% endfor %}
