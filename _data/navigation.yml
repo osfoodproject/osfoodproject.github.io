@@ -15,8 +15,11 @@ main:
   - title: "Recipes"
     url: /recipes/
     
-  - title: "Foraging"
-    url: /foraging/
+  - title: "Acquiring ingredients"
+    url: /ingredients/
+
+  - title: "Random food musings"
+    url: /musings/
     
   - title: "Guide"
     url: /markdown/
