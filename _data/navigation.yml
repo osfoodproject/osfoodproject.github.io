@@ -12,11 +12,11 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Posts"
-    url: /year-archive/
+  - title: "Recipes"
+    url: /recipes/
     
-#  - title: "CV"
-#    url: /cv/
+  - title: "Foraging"
+    url: /foraging/
     
 #  - title: "Guide"
 #    url: /markdown/
