@@ -13,7 +13,7 @@ main:
 #    url: /portfolio/
         
   - title: "Recipes"
-    url: /year-archive/
+    url: /recipes/
     
   - title: "Foraging"
     url: /foraging/
