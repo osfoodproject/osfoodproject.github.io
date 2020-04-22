@@ -16,7 +16,7 @@ main:
     url: /recipes/
     
   - title: "Acquiring ingredients"
-    url: /ingredients/
+    url: /teaching/
 
   - title: "Random food musings"
     url: /musings/
