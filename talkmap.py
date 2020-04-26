@@ -45,7 +45,7 @@ for file in g:
             loc_end = lines_trim.find('"')
             venue = lines_trim[:loc_end]
            
-        key = str(title + " | " + venue + ", " + location)                 
+        key = str(venue + " | " + location)                 
            
         location_dict[key] = geocoder.geocode(location)
         print(key, "\n", location_dict[key])
