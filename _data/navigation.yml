@@ -18,6 +18,9 @@ main:
   - title: "Acquiring ingredients"
     url: /ingredients/
 
+  - title: "Travel"
+    url: /travel/
+
   - title: "Random food musings"
     url: /musings/
     

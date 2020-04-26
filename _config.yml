@@ -181,6 +181,10 @@ collections:
   musings:
     output: true
     permalink: /:collection/:path/
+  travel:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 
