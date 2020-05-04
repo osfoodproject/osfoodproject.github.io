@@ -1,0 +1,29 @@
+---
+title: 'Noonbariya'
+date: 2020-04-18
+permalink: /recipes/2020/05/04/Noonbariya/
+tags:
+  - fried
+  - Indian
+  - category2
+---
+
+Ingredients
+
+•	Wheat Flour - 1 Cup
+•	Potato (medium size) - 4 Grated or cut in small size
+•	Ginger (finely chopped) - 1 inch piece
+•	Green chillies (finely chopped) - 4 
+•	Coriander leaves - 1/4 cup
+•	Salt - To taste
+•	Sugar - 1 tsp
+•	Oil For Frying
+
+Method
+
+Add water to flour and beat it thoroughly to make a slurry.
+
+Mix all the ingredients and test the slurry by dropping a little of it in water and if it floats it is OK, if not beat the slurry a bit more. Dip small pieces of it in hot oil and fry them it till the fritters are golden brown. Serve with green chutney.
+
+
+
