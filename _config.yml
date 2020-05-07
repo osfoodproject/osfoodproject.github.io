@@ -208,10 +208,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _ingredients
   - scope:
       path: ""
-      type: teaching
+      type: ingredients
     values:
       layout: single
       author_profile: true
