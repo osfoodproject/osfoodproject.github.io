@@ -1,7 +1,7 @@
 ---
 title: 'Noonbariya'
-date: 2020-04-18
-permalink: /recipes/2020/05/04/Noonbariya/
+date: 2020-05-04
+permalink: /recipes/2020/05/04/noonbariya/
 tags:
   - fried
   - Indian
